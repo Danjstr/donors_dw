@@ -46,7 +46,18 @@ Documentation: Contains Project managment, Databases, ETL, Images and Analytics(
 
 - High-Level project plan - Contains an excel table with detailed descriptions of our weekly goals. As well as a waterfall project overview populated from that excel sheet.
 
-# Outline: there need to be an outline of all the broad steps taken. basically a recap of our timeline
+# Outline of project Goals: 
+
+Increment 1 - Decided on Data sets and a general overview of the project objective.
+Increment 2 - Began research on data sets, ETL process, and Database Architecture.
+Increment 3 - Began building the data warehouse. Started writing scripts for the Database. Writing Scripts in python to push the data to AWS. Worked on retrieving and organizing unstructured data.
+Increment 4 - Continued building the data warehouse. Continued writing scripts for the database. Continued writing Scripts in python to push the data to AWS. Continued working on retrieving and organizing unstructured data.
+Increment 5 - Trouble shooted python and SQL. Made changes to the schema of the database. 
+Increment 6 - Made final adjustments to scripts.
+Increment 7 - Began organizing all documentation.
+Increment 8 - Created the presentation.
+Increment 9 - Rehearsed the presentation for the Final.
+
 
 # Set Up
 
