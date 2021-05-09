@@ -34,8 +34,6 @@ Scripts: Contains Python and SQL code used in the process of implementing this p
 
 Documentation: Contains Project managment, Databases, ETL, Images and Analytics(Tableau).  
 
-- Databases -
-
 -Analytics (Tableau) - 
 
 - ETL - Contains a PDF with all ETL instructions.
