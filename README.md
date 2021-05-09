@@ -13,8 +13,17 @@ There are many files provided in this Github Repo. This section will be providin
 Raw Datasets: Contains csv and Json files used in the process of implementing this pipeline. 
 
 - C_User_elham_Desktop_New_value file contians unstructured data.
-- Median Income 2016.csv, Median Income 2017.csv, Median Income 2018.csv and Median Income 2019.csv all contain Median Income by zip code.
-- 
+- Median Income 2016.csv, Median Income, 2017.csv, Median Income 2018.csv and Median Income 2019.csv all contain Median Income by zip code.
+- 5_Year_Giving.csv contains data on donations for the last five years at Yeshiva University.
+
+Scripts: Contains Python and SQL code used in the process of implementing this pipeline. 
+
+- Python - Contains three python scripts. These scripts need to be modified before use(Details provided in the Set-up and Daily Updates Section of this Read Me.
+- SQL - These scripts contain the details needed to create your database and all procedure.
+
+Documentation: Contains A high-Level project plan, Business Matrix, conceptual data model, Logical data model, Physical Data Model, Data Dictionary, and Basic use cases.  
+
+- High-Level project plan - Contains an excel table with detailed descriptions of our weekly goals. As well as a waterfall project overview populated from that excel sheet.
 
 # Outline: there need to be an outline of all the broad steps taken. basically a recap of our timeline
 
