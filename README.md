@@ -4,9 +4,20 @@ There are several broad steps used in the process of Setting up this Pipeline. W
 
 IT should be noted that there is a great deal of reference material in the provided documents.
 
-# Overview:There needs to be an Overview Section describing what the project is and the goals.
+# Overview
 
-# Content: 
+This project and all tools in this GitHub repo were designed and built for use with Yeshiva Universities Donation Data. 
+
+This project aims to allow users to gain insights from the donation data that would previously be impossible. This is done by using the Donation data's zip code section and comparing it to additional datasets containing Income and home price by zip code.
+
+It should be noted that this pipeline is designed for reproducibility purposes. As such any new data released can be uploaded directly to the pipeline.  This allows users to easily incorporate new data into the existing analysis.
+
+When fully set up the user can perform a vast array of analytics. Gaining insights on donors using the area they live for insights.
+
+Note: All relevant identifying data has been removed from the donation data sets.
+
+
+# Content 
 
 There are many files provided in this Github Repo. This section will be providing an overview of each file.
 
