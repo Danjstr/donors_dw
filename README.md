@@ -10,7 +10,11 @@ IT should be noted that there is a great deal of reference material in the provi
 
 There are many files provided in this Github Repo. This section will be providing an overview of each file.
 
+Raw Datasets: Contains csv and Json files used in the process of implementing this pipeline. 
 
+- C_User_elham_Desktop_New_value file contians unstructured data.
+- Median Income 2016.csv, Median Income 2017.csv, Median Income 2018.csv and Median Income 2019.csv all contain Median Income by zip code.
+- 
 
 # Outline: there need to be an outline of all the broad steps taken. basically a recap of our timeline
 
