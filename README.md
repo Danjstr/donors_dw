@@ -6,7 +6,11 @@ IT should be noted that there is a great deal of reference material in the provi
 
 # Overview:There needs to be an Overview Section describing what the project is and the goals.
 
-# Content: Including a content section featuring all the files in our Github is necessary. including a short description of what the purpose of each file is
+# Content: 
+
+There are many files provided in this Github Repo. This section will be providing an overview of each file.
+
+
 
 # Outline: there need to be an outline of all the broad steps taken. basically a recap of our timeline
 
