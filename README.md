@@ -21,7 +21,15 @@ Scripts: Contains Python and SQL code used in the process of implementing this p
 - Python - Contains three python scripts. These scripts need to be modified before use(Details provided in the Set-up and Daily Updates Section of this Read Me.
 - SQL - These scripts contain the details needed to create your database and all procedure.
 
-Documentation: Contains A high-Level project plan, Business Matrix, conceptual data model, Logical data model, Physical Data Model, Data Dictionary, and Basic use cases.  
+Documentation: Contains Project managment, Databases, ETL, Images and Analytics(Tableau).  
+
+- Databases -
+
+- ETL - Contains a PDF with all ETL instructions.
+
+- Images - Contains a PDF with all ETL instructions.
+
+- Project Managment - Contains A high-Level project plan, Business Matrix, conceptual data model, Logical data model, Physical Data Model, Data Dictionary, and Basic use cases. 
 
 - High-Level project plan - Contains an excel table with detailed descriptions of our weekly goals. As well as a waterfall project overview populated from that excel sheet.
 
