@@ -4,6 +4,11 @@ There are several broad steps used in the process of Setting up this Pipeline. W
 
 IT should be noted that there is a great deal of reference material in the provided documents.
 
+# Overview:There needs to be an Overview Section describing what the project is and the goals.
+
+# Content: Overview:There needs to be an Overview Section describing what the project is and the goals.
+
+# Outline: there need to be an outline of all the broad steps taken. basically a recap of our timeline
 
 # Set Up
 
