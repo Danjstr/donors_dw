@@ -25,7 +25,7 @@ There are many files provided in this Github Repo. This section will be providin
 
 Raw Datasets: Contains csv and Json files used in the process of implementing this pipeline. 
 
-- C_User_elham_Desktop_New_value file contians unstructured data.
+- New_value.json file contians unstructured data.
 - Median Income 2016.csv, Median Income, 2017.csv, Median Income 2018.csv and Median Income 2019.csv all contain Median Income by zip code.
 - 5_Year_Giving.csv contains data on donations for the last five years at Yeshiva University.
 
