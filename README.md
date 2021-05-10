@@ -16,7 +16,7 @@ When fully set up the user can perform a vast array of analytics. Gaining insigh
 
 Note: All relevant identifying data has been removed from the donation data sets.
 
-![p](C:\Users\Daniel Strauss\Downloads\ "p")
+![](C:\Users\Daniel Strauss\Downloads\ "p")
 
 
 # Content 
