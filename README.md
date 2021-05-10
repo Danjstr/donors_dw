@@ -16,7 +16,7 @@ When fully set up the user can perform a vast array of analytics. Gaining insigh
 
 Note: All relevant identifying data has been removed from the donation data sets.
 
-![](Conceptual%20Data%20Models%20(1).pdf)
+![](pdf/Conceptual%20Data%20Models%20(1).pdf)
 
 
 # Content 
