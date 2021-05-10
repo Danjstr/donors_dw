@@ -38,6 +38,8 @@ Documentation: Contains Project managment, Databases, ETL, Images and Analytics(
 
 -Analytics (Tableau) - 
 
+- Business Use Case - Contains a PDF with detailed use cases of this project.
+
 - ETL - Contains a PDF with all ETL instructions.
 
 - Images - Contains a PDF with the network diagrams and PNG of the Data warhouse architecture.
