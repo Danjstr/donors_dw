@@ -36,7 +36,7 @@ Scripts: Contains Python and SQL code used in the process of implementing this p
 
 Documentation: Contains Project managment, Databases, ETL, Images and Analytics(Tableau).  
 
--Analytics (Tableau) - 
+-Analytics (Tableau) - Contains dashboards with analytics of our datasets.
 
 - Business Use Case - Contains a PDF with detailed use cases of this project.
 
@@ -133,4 +133,6 @@ Step 2: Trouble Shooting
 
 
 # Visualizing Insights With Tableau
+
+The Tableau Dashboard is located in the documentation folder. It contains valuable insights we gleaned using our dataset. To access it you must download and install Tableau on your computer. The file can be directly downloaded from Github. This allows anyone to perform their own statistical analysis with this data set or create their own dashboards.
         
