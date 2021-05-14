@@ -44,7 +44,7 @@ Documentation: Contains Project managment, Databases, ETL, Images and Analytics(
 
 - Images - Contains a PDF with the network diagrams and PNG of the Data warhouse architecture.
 
-- Project Management - Contains A high-Level project plan, Business Matrix, conceptual data model, Logical data model, Physical Data Model, Data Dictionary, and Basic use cases. 
+- Project Management - Contains A high-Level project plan, Business Matrix, conceptual data model, Logical data model, Physical Data Model, Data Dictionary, Physical layout and Basic use cases. 
 
 - High-Level project plan - Contains an excel table with detailed descriptions of our weekly goals. As well as a waterfall project overview populated from that excel sheet.
 
